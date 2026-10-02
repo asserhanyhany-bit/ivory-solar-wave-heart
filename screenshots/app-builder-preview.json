@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NIGHTLINE",
+      "hasCanvas": false,
+      "bodyTextLen": 325,
+      "bodyTextHash": "d5bc4035f22726749bae295a7001053a04a6ee12a7ddfa0e44aeb34ae54b4cff",
+      "bodyTextPrefix": "LIVE BOOTH Rules ON AIR · ANONYMOUS NIGHTLINE Talk to a stranger",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NIGHTLINE",
+      "hasCanvas": false,
+      "bodyTextLen": 325,
+      "bodyTextHash": "d5bc4035f22726749bae295a7001053a04a6ee12a7ddfa0e44aeb34ae54b4cff",
+      "bodyTextPrefix": "LIVE BOOTH Rules ON AIR · ANONYMOUS NIGHTLINE Talk to a stranger",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
